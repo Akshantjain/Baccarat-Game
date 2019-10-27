@@ -50,7 +50,7 @@ public class BaccaratGame extends Application {
 	private TextField player, bank;			// data member for the Player and Bank Section label
 
 	// data member for the input for the player bet, banker bet, tie bet and show the progress of the game
-	private TextField playerBet, bankerBet, tieBet, progress, playerTotal, bankTotal;
+	private TextField playerBet, bankerBet, tieBet, progress;
 
 	// data member to display player card 1, card 2, card 3
 	private Rectangle playerCard1, playerCard2, playerCard3;
