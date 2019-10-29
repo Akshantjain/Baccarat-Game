@@ -1,4 +1,4 @@
-# Baccarat-Game
+# Baccarat Game
 Re-created famous and the easiest casino game Baccarat using Java and JavaFX in Maven.
 
 ## Project Requirements
@@ -21,6 +21,9 @@ These command will let you clone the respitory to your system at your specified 
    ```
    
    This command will let you run the game and then delete the garbage(target) files created by the compile command.
+
+## Rules of Game
+For the general rules, visit the official [Baccarat Game](https://en.wikipedia.org/wiki/Baccarat_(card_game)#Versions) wikipedia page
 
 ## Feedback
 Feedback and Suggestions are most welcomed.
